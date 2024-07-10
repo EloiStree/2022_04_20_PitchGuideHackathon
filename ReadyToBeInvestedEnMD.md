@@ -1,6 +1,4 @@
 
-Voici une présentation structurée basée sur les critères de Ben Piquard concernant l'évaluation d'une startup, en utilisant une échelle de 0 à 3 pour différents aspects clés :
-
 ### Évaluation d'une Startup selon Ben Piquard (restructuré par Chat GPT) 
 
 ## FR
@@ -114,7 +112,7 @@ Ces critères permettent d'évaluer de manière holistique la maturité et le po
 
 ## EN
 
-Here’s the structured evaluation criteria for a startup according to Ben Piquard, with an English version using a 0-3 scale for key aspects:
+
 
 ### Startup Evaluation Criteria by Ben Piquard
 
