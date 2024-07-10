@@ -1,4 +1,6 @@
 
+Source: https://docs.google.com/spreadsheets/d/e/2PACX-1vTlore-Etrbh3p4XkJ8eeG8JWNlI0lyEZp8imMtvXeqe268OV3z_UNGlPELCaGl7f21XyYdncW6cxVZ/pubhtml?gid=1911286289&single=t
+
 ### Évaluation d'une Startup selon Ben Piquard (restructuré par Chat GPT) 
 
 ## FR
